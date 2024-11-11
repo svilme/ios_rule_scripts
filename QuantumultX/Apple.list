@@ -1881,5 +1881,5 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 IP-CIDR,63.92.224.0/19,Apple
 IP-CIDR,65.199.22.0/23,Apple
-
 HOST,radio.itunes.apple.com,Apple
+HOST,radio-activity.itunes.apple.com,Apple
